@@ -1,1 +1,1 @@
-# TinDogWebsite
+# TinDog - Tinder for Your Dog
